@@ -1,0 +1,9 @@
+
+.nav-wrapper {
+  display: inline-block;
+}
+
+#logo-container {
+  height: 240px;
+  margin-bottom: 20px;
+}

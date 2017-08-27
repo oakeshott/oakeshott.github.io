@@ -1,0 +1,21 @@
+{
+  "name": "blog",
+  "homepage": "https://github.com/oakeshott/blog",
+  "authors": [
+    "Takanori HARA <twinmaikosyu@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "simple-jekyll-search": "~1.1.1"
+  }
+}
