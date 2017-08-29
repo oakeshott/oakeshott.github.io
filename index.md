@@ -17,6 +17,13 @@ permalink: /
 * Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. "Short and Reliable Path Selection for Automatic Evacuation Guiding Based on Interactions Between Evacuees and Their Mobile Devices." International Conference on Mobile Web and Information Systems. Springer, Cham, 2017.
 * Takanori Hara, Masahiro Sasabe and Shoji Kasahara, "On Path Selection Considering Length and Reliability for Automatic Evacuation Guiding Based on Interactions between Evacuees and Their Mobile Nodes", IEICE Tech. Rep., vol. 116, no. 484, NS2016-247, pp. 517-522, March 2017.
 
+## Activity
+
+### Business Contest
+
+* 第1期神戸スタートアップオフィス企業支援プログラム 採択 [グループ]
+* ICT ビジネス研究会主催のビジネスモデル発見&発表会·近畿大会 池田泉州銀行賞 [グループ]
+
 ## Links
 
 * [Facebook](https://www.facebook.com/profile.php?id=100012212837682)
