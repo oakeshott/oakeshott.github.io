@@ -7,7 +7,7 @@ permalink: /
 
 ## Education
 
-* Now: in Doctoral course, Department of Information Science, Nara Institute of Science and Technology
+* Now: in Doctoral course, Department of Science and Technology, Nara Institute of Science and Technology
 * Mar. 2018: M.Eng., Department of Information Science, Nara Institute of Science and Technology
 * Mar. 2016: B.Eng., National Institution for Academic Degrees and Quality Enhancement of Higher Education
 * Mar. 2016: Finished, Advanced Electronic and Information Engineering Course, National Institute of Technology, Nara College
