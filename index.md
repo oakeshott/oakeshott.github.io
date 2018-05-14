@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Takanori HARA
+title: Takanori HARA (原 崇徳)
 permalink: /
 ---
-# Takanori HARA
+# Takanori HARA  (原 崇徳)
 
 ## Education
 
@@ -15,8 +15,11 @@ permalink: /
 
 ## Publication
 
+### Journal
+1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. "Geographical Risk Analysis Based Path Selection for Automatic, Speedy, and Reliable Evacuation Guiding Using Evacuees’ Mobile Devices." Journal of Ambient Intelligence and Humanized Computing, Springer, pp.1-10, May 2018.
+
 ### International Conference
-1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. "Short and Reliable Path Selection for Automatic Evacuation Guiding Based on Interactions Between Evacuees and Their Mobile Devices." International Conference on Mobile Web and Information Systems. Springer, Cham, 2017.
+1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. "Short and Reliable Path Selection for Automatic Evacuation Guiding Based on Interactions Between Evacuees and Their Mobile Devices." International Conference on Mobile Web and Information Systems. Springer, pp.33-44, Aug. 2017.
 
 ### Domestic Conference
 1. 原 崇徳, 笹部 昌弘, 笠原 正治, “道路網におけるユーザの利己的行動と情報共有が分散型経路選択方式に与える影響,” 電子情報通信学会CQ研究会, 2018.4.20.
@@ -43,4 +46,3 @@ permalink: /
 ## Links
 
 * [Facebook](https://www.facebook.com/profile.php?id=100012212837682)
-* [Github](https://github.com/oakeshott)
