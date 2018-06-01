@@ -17,10 +17,10 @@ permalink: /
 ## Publication
 
 * Journal / 論文誌
-  1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. "Geographical Risk Analysis Based Path Selection for Automatic, Speedy, and Reliable Evacuation Guiding Using Evacuees’ Mobile Devices." Journal of Ambient Intelligence and Humanized Computing, Springer, pp.1-10, May 2018, doi:10.1007/s12652-018-0826-z.
+  1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Geographical Risk Analysis Based Path Selection for Automatic, Speedy, and Reliable Evacuation Guiding Using Evacuees’ Mobile Devices.'' Journal of Ambient Intelligence and Humanized Computing, Springer, pp.1-10, May 2018, doi:10.1007/s12652-018-0826-z.
 
 * International Conference / 国際会議
-  1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. "Short and Reliable Path Selection for Automatic Evacuation Guiding Based on Interactions Between Evacuees and Their Mobile Devices." International Conference on Mobile Web and Information Systems. Springer, pp.33-44, Aug. 2017.
+  1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Short and Reliable Path Selection for Automatic Evacuation Guiding Based on Interactions Between Evacuees and Their Mobile Devices.'' International Conference on Mobile Web and Information Systems. Springer, pp.33-44, Aug. 2017.
 
 * Domestic Conference / 国内会議
   1. 原 崇徳, 笹部 昌弘, 笠原 正治, “道路網におけるユーザの寛容性と情報共有が分散型経路選択方式に与える影響,” NS 研究会, 信学技報, 第 118 巻, pp.63–68, 2018.5.
