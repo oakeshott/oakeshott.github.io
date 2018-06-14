@@ -5,6 +5,7 @@ permalink: /
 ---
 # Takanori HARA  / 原 崇徳
 
+## Research Topic
 
 ## Education
 
