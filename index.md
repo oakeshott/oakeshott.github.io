@@ -5,8 +5,6 @@ permalink: /
 ---
 # Takanori HARA  / 原 崇徳
 
-## Research Topic
-
 ## Education
 
 * Now: in Doctoral course, Department of Science and Technology, Nara Institute of Science and Technology
