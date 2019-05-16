@@ -4,6 +4,13 @@ title: Takanori HARA / 原 崇徳
 permalink: /
 ---
 # Takanori HARA / 原 崇徳
+
+## Reasearch Interest
+
+* game theoretical approaches
+* evacuation planning
+* evacuation guiding
+
 ## Education
 
 * Now: in Doctoral course, Department of Science and Technology, Nara Institute of Science and Technology
