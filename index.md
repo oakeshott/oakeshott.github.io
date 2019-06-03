@@ -3,7 +3,6 @@ layout: default
 title: Takanori HARA / 原 崇徳
 permalink: /
 ---
-# Takanori HARA / 原 崇徳
 
 ## Reasearch Interest
 

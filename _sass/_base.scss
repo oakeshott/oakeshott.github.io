@@ -41,6 +41,10 @@ h1 {
 
 h2 {
   font-size: 24px;
+  border-bottom: solid 2px black;
+}
+h2.footer-heading {
+  border-bottom: solid 1px black;
 }
 
 h3 {
@@ -89,6 +93,9 @@ ul li {
   list-style-type: disc;
 }
 ul.side-nav li{
+  list-style-type: none;
+}
+ul.top-nav li{
   list-style-type: none;
 }
 /**
