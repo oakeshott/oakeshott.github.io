@@ -47,9 +47,9 @@ permalink: /
   5. NAIST最優秀学生賞, 公益財団法人 奈良先端科学技術大学院大学支援財団, 2018
   6. 独立行政法人日本学生支援機構第一種奨学金の特に優れた業績による一部返済免除, 独立行政法人日本学生支援機構, 2018
 
-## DEMO
-
-* [Selfish yet Optimal Routing](/demo_selfish_yet_optimal_routing/)
+<!-- ## DEMO -->
+<!--  -->
+<!-- * [Selfish yet Optimal Routing](/demo_selfish_yet_optimal_routing/) -->
 
 ## Activity
 
