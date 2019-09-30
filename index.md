@@ -39,6 +39,11 @@ permalink: /
   2. 原崇徳, 笹部昌弘, 笠原正治, “道路網における情報共有とユーザの利己的行動が分散型経路選択方式に与える影響に関する一検討,” 電子情報通信学会総合大会, 2018.3.
   3. 原崇徳, 笹部昌弘, 笠原正治, “避難者・モバイル端末間連携型自動避難誘導における避難経路選択方式に関する一検討,” 電子情報通信学会総合大会, 2017.3.
 
+<!-- ## DEMO -->
+<!--  -->
+<!-- * [Selfish yet Optimal Routing](/demo_selfish_yet_optimal_routing/) -->
+
+## Activity
 * Award
   1. 公益財団法人アイコム電子通信工学振興財団平成31年度(第16期)奨学生, 2019
   2. NS研究会, 若手研究奨励賞, 2018
@@ -46,12 +51,9 @@ permalink: /
   4. 最優秀学生賞, 奈良先端科学技術大学院大学, 2018
   5. NAIST最優秀学生賞, 公益財団法人 奈良先端科学技術大学院大学支援財団, 2018
   6. 独立行政法人日本学生支援機構第一種奨学金の特に優れた業績による一部返済免除, 独立行政法人日本学生支援機構, 2018
-
-<!-- ## DEMO -->
-<!--  -->
-<!-- * [Selfish yet Optimal Routing](/demo_selfish_yet_optimal_routing/) -->
-
-## Activity
+* Internship
+  - NTT研究所，2019.8.-2019.9.
+* CICP2019(NAIST学内プロジェクト), ``Automatic Evacuation Guiding for Evacuation Drill'', 500,000 yen, 2019.7.-2020.3.
 
 * Business Contest
 
