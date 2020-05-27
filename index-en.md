@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Takanori HARA / 原 崇徳
+title: Takanori HARA
 permalink: /
 ---
 
 ## Reasearch Interest
 
-* operations research
 * game theoretical approaches
+* optimization
 * evacuation planning
 
 ## Education
@@ -24,7 +24,6 @@ permalink: /
     1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Geographical Risk Analysis Based Path Selection for Automatic, Speedy, and Reliable Evacuation Guiding Using Evacuees’ Mobile Devices.'' Journal of Ambient Intelligence and Humanized Computing, Springer, pp.1-10, May 2018, doi:10.1007/s12652-018-0826-z. (査読あり)
 
 * International Conference / 国際会議
-    1. Masahiro Sasabe, Takanori Hara. ``Shortest Path Tour Problem Based Integer Linear Programming for Service Chaining in NFV Networks.'' Proc. of the 6th IEEE International Conference on Network Softwarization (IEEE NetSoft 2020), pp.1-8, June 2020. (full paper, 査読あり)
     1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Short and Reliable Path Selection for Automatic Evacuation Guiding Based on Interactions Between Evacuees and Their Mobile Devices.'' International Conference on Mobile Web and Information Systems. Springer, pp.33-44, Aug. 2017. (査読あり)
 
 * Domestic Conference / 国内会議
@@ -60,7 +59,3 @@ permalink: /
 * Internship
   - NTT研究所，2019.8.-2019.9.
 * CICP2019(NAIST学内プロジェクト), ``Automatic Evacuation Guiding for Evacuation Drill'', 500,000 yen, 2019.7.-2020.3.
-
-<!-- * Business Contest -->
-<!--   * 第1期神戸スタートアップオフィス企業支援プログラム 採択 [グループ] -->
-<!--   * ICT ビジネス研究会主催のビジネスモデル発見&発表会·近畿大会 池田泉州銀行賞 [グループ] -->
