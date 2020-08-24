@@ -21,7 +21,7 @@ permalink: /
 ## Publication
 
 * Journal / 論文誌
-    1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Selfish yet Optimal Routing by Adjusting Perceived Traffic Information of Road Networks.'' IEEE Open Journal of Intelligent Transportation Systems. (査読あり)
+    1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Selfish yet Optimal Routing by Adjusting Perceived Traffic Information of Road Networks.'' to appear in IEEE Open Journal of Intelligent Transportation Systems. (査読あり)
     1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Capacitated Refuge Assignment for Speedy and Reliable Evacuation.'' ISPRS International Journal of Geo-Information 9.7 (2020): 442. (査読あり)
     2. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Geographical Risk Analysis Based Path Selection for Automatic, Speedy, and Reliable Evacuation Guiding Using Evacuees’ Mobile Devices.'' Journal of Ambient Intelligence and Humanized Computing, Springer, pp.1-10, May 2018, doi:10.1007/s12652-018-0826-z. (査読あり)
 
