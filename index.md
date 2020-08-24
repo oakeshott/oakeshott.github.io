@@ -21,11 +21,13 @@ permalink: /
 ## Publication
 
 * Journal / 論文誌
-    1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Geographical Risk Analysis Based Path Selection for Automatic, Speedy, and Reliable Evacuation Guiding Using Evacuees’ Mobile Devices.'' Journal of Ambient Intelligence and Humanized Computing, Springer, pp.1-10, May 2018, doi:10.1007/s12652-018-0826-z. (査読あり)
+    1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Selfish yet Optimal Routing by Adjusting Perceived Traffic Information of Road Networks.'' IEEE Open Journal of Intelligent Transportation Systems. (査読あり)
+    1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Capacitated Refuge Assignment for Speedy and Reliable Evacuation.'' ISPRS International Journal of Geo-Information 9.7 (2020): 442. (査読あり)
+    2. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Geographical Risk Analysis Based Path Selection for Automatic, Speedy, and Reliable Evacuation Guiding Using Evacuees’ Mobile Devices.'' Journal of Ambient Intelligence and Humanized Computing, Springer, pp.1-10, May 2018, doi:10.1007/s12652-018-0826-z. (査読あり)
 
 * International Conference / 国際会議
-    1. Masahiro Sasabe, Takanori Hara. ``Shortest Path Tour Problem Based Integer Linear Programming for Service Chaining in NFV Networks.'' Proc. of the 6th IEEE International Conference on Network Softwarization (IEEE NetSoft 2020), pp.1-8, June 2020. (full paper, 査読あり)
-    1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Short and Reliable Path Selection for Automatic Evacuation Guiding Based on Interactions Between Evacuees and Their Mobile Devices.'' International Conference on Mobile Web and Information Systems. Springer, pp.33-44, Aug. 2017. (査読あり)
+    1. Masahiro Sasabe, Takanori Hara. ``Shortest Path Tour Problem Based Integer Linear Programming for Service Chaining in NFV Networks.'' in Proc. of the 6th IEEE International Conference on Network Softwarization (IEEE NetSoft 2020), pp.1-8, June 2020. (full paper, 査読あり, acceptance rate: 20.0%)
+    1. Hara, Takanori, Masahiro Sasabe, and Shoji Kasahara. ``Short and Reliable Path Selection for Automatic Evacuation Guiding Based on Interactions Between Evacuees and Their Mobile Devices.'' in Proc. of International Conference on Mobile Web and Information Systems. Springer, pp.33-44, Aug. 2017. (査読あり)
 
 * Domestic Conference / 国内会議
     1. 原崇徳, 笹部昌弘, 笠原正治, “地理リスク情報を考慮した自動避難誘導アプリケーションの設計・実装”, CQ研究会, 2020年1月.
@@ -39,13 +41,10 @@ permalink: /
     9. 原崇徳, 笹部昌弘, 笠原正治, “避難者・モバイル端末間連携型自動避難誘導における経路の長さと信頼性を考慮した避難経路選択方式に関する一検討,” NS研究会, 信学技報, 第 116 巻, pp.517–522, 2017.3.
 
 * 国内学会大会
+    1. 大谷珠有, 原崇徳, 笹部昌弘, 笠原正治, “距離制約付き迂回路を含む経路の到達可能性に関する一検討” 電子情報通信学会ソサイエティ大会, 2020.9.
     1. 松田大樹, 原崇徳, 笹部昌弘, 笠原正治, “モバイル・エッジ連携型自動避難誘導における迅速性・安全性・避難所容量を考慮した避難所選択方式に関する一検討,” 電子情報通信学会ソサイエティ大会, 2018.9.
     2. 原崇徳, 笹部昌弘, 笠原正治, “道路網における情報共有とユーザの利己的行動が分散型経路選択方式に与える影響に関する一検討,” 電子情報通信学会総合大会, 2018.3.
     3. 原崇徳, 笹部昌弘, 笠原正治, “避難者・モバイル端末間連携型自動避難誘導における避難経路選択方式に関する一検討,” 電子情報通信学会総合大会, 2017.3.
-
-<!-- ## DEMO -->
-<!--  -->
-<!-- * [Selfish yet Optimal Routing](/demo_selfish_yet_optimal_routing/) -->
 
 ## Activity
 * Award
