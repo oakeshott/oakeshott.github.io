@@ -29,4 +29,4 @@ redcarpet:
     "lax_html_blocks",
     "superscript"
     ]
-exclude: ["gulpfile.js", "bower.json", "sync.sh", "Gemfile", "Gemfile.lock"]
+exclude: ["gulpfile.js", "bower.json", "sync.sh", "Gemfile", "Gemfile.lock", "vendor"]

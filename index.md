@@ -9,6 +9,7 @@ permalink: /
 * operations research
 * game theoretical approaches
 * evacuation planning
+* NFV network
 
 ## Education
 
