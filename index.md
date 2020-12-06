@@ -27,7 +27,7 @@ permalink: /
     2. T. Hara, M. Sasabe, and S. Kasahara. ``Geographical Risk Analysis Based Path Selection for Automatic, Speedy, and Reliable Evacuation Guiding Using Evacuees’ Mobile Devices.'' Journal of Ambient Intelligence and Humanized Computing, Springer, pp.1-10, May 2018, doi:10.1007/s12652-018-0826-z. (査読あり)
 
 * International Conference / 国際会議
-    1. T. Hara, M. Sasabe, and S. Kasahara. ``Distributed Route Selection under Consideration of Time Dependency among Agents’ Road Usage for Vehicular Networks.'' to be presented at the International Conference on Emerging Technologies for Communications, Dec. 2020. (査読あり)
+    1. T. Hara, M. Sasabe, and S. Kasahara. ``Distributed Route Selection under Consideration of Time Dependency among Agents’ Road Usage for Vehicular Networks.'' to be presented at the International Conference on Emerging Technologies for Communications, Dec. 2020. (査読あり, Best Paper Award)
     1. H. Shimizu, T. Hara, T. Iwata, “Deep Reinforcement Learning for Pedestrian Guidance”, to be presented at the 23rd International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 2020), Nov. 2020. (short paper, 査読あり)
     1. M. Sasabe, T. Hara. ``Shortest Path Tour Problem Based Integer Linear Programming for Service Chaining in NFV Networks.'' in Proc. of the 6th IEEE International Conference on Network Softwarization (IEEE NetSoft 2020), pp.1-8, June 2020. (full paper, 査読あり)
     1. T. Hara, M. Sasabe, and S. Kasahara. ``Short and Reliable Path Selection for Automatic Evacuation Guiding Based on Interactions Between Evacuees and Their Mobile Devices.'' in Proc. of International Conference on Mobile Web and Information Systems. Springer, pp.33-44, Aug. 2017. (査読あり)
@@ -51,11 +51,14 @@ permalink: /
 
 ## Activity
 * Award
+  1. ICETC, Best Paper Award, 2020
+  1. ITU AI/ML in 5G Challenge Global Round in Japan, Best Performance Award, 2020
   1. NS研究会, 若手研究奨励賞, 2018
   2. 第5回コミュニケーションクオリティ基礎講座ワークショップ 最優秀研究賞, 2018
   3. 最優秀学生賞, 奈良先端科学技術大学院大学, 2018
   4. NAIST最優秀学生賞, 公益財団法人 奈良先端科学技術大学院大学支援財団, 2018
 * Fellowship and Scholarship
+  3. 独立行政法人日本学生支援機構第一種奨学金の特に優れた業績による一部返済免除, 独立行政法人日本学生支援機構, 2020
   1. 2020年度日本学術振興会特別研究員 (DC2), 2020
   2. 公益財団法人アイコム電子通信工学振興財団平成31年度(第16期)奨学生, 2019
   3. 独立行政法人日本学生支援機構第一種奨学金の特に優れた業績による一部返済免除, 独立行政法人日本学生支援機構, 2018
