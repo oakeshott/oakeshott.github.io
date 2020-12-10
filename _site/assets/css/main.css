@@ -7,11 +7,11 @@ body { font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif; color:
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight { margin-bottom: 10px; }
 
-h1 { font-size: 32px; }
+h1 { font-size: 24px; border-bottom: solid 2px black; }
 
-h2 { font-size: 24px; border-bottom: solid 2px black; }
+h1.footer-heading { border-bottom: solid 1px black; }
 
-h2.footer-heading { border-bottom: solid 1px black; }
+h2 { font-size: 20px; }
 
 h3 { font-size: 16px; }
 

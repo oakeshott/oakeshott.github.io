@@ -35,16 +35,17 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
-h1 {
-  font-size: 32px;
-}
 
-h2 {
+h1 {
   font-size: 24px;
   border-bottom: solid 2px black;
 }
-h2.footer-heading {
+h1.footer-heading {
   border-bottom: solid 1px black;
+}
+
+h2 {
+  font-size: 20px;
 }
 
 h3 {
