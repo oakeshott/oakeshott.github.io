@@ -26,7 +26,7 @@ permalink: /
 - M. Sasabe and T. Hara. ''Capacitated Shortest Path Tour Problem Based Integer Linear Programming for Service Chaining and Function Placement in NFV Networks.'' to appear in IEEE Transactions on Network and Service Management, pp.1-14, March 2021. (査読あり)
 - T. Hara, M. Sasabe, and S. Kasahara. ''Selfish yet Optimal Routing by Adjusting Perceived Traffic Information of Road Networks.'' IEEE Open Journal of Intelligent Transportation Systems, pp.120-133, Aug. 2020. (査読あり)
 - T. Hara, M. Sasabe, and S. Kasahara. ''Capacitated Refuge Assignment for Speedy and Reliable Evacuation.'' ISPRS International Journal of Geo-Information, vol. 9, no. 7, p. 442: 1–19, Jul. 2020. (査読あり)
-- T. Hara, M. Sasabe, and S. Kasahara. ''Geographical Risk Analysis Based Path Selection for Automatic, Speedy, and Reliable Evacuation Guiding Using Evacuees’ Mobile Devices.'' Journal of Ambient Intelligence and Humanized Computing, Springer, pp.1-10, May 2018, doi:10.1007/s12652-018-0826-z. (査読あり)
+- T. Hara, M. Sasabe, and S. Kasahara. ''Geographical Risk Analysis Based Path Selection for Automatic, Speedy, and Reliable Evacuation Guiding Using Evacuees' Mobile Devices.'' Journal of Ambient Intelligence and Humanized Computing, Springer, pp.1-10, May 2018, doi:10.1007/s12652-018-0826-z. (査読あり)
 
 ## International Conference / 国際会議
 
@@ -37,6 +37,7 @@ permalink: /
 
 ## Domestic Conference / 国内会議
 
+- 馬場柾也, 原崇徳, 笹部昌弘, 笠原正治, “高可用性・省電力性・冗長性を備えたNFVネットワーク実現のためのサービスチェイニング”, NS研究会, 2021年3月.
 - 大谷珠有, 原崇徳, 笹部昌弘, 笠原正治, “距離制約付き迂回可能性を含む経路の到達可能性に関する検討”, CQ研究会, 2020年11月.
 - 原崇徳, 笹部昌弘, 笠原正治, “地理リスク情報を考慮した自動避難誘導アプリケーションの設計・実装”, CQ研究会, 2020年1月.
 - 原崇徳, 笹部昌弘, 笠原正治, “道路網におけるトラヒック情報制御による利己的最適ルーティング (Invited Lecture)”, RISING研究会, 2019年11月. (ポスター発表)
@@ -59,6 +60,7 @@ permalink: /
 
 * Award
   - ICETC, Best Paper Award, 2020
+  - ITU AI/ML in 5G Challenge (Regional round), Judges’ Prize Winners’ Certificate, 2020
   - ITU AI/ML in 5G Challenge Global Round in Japan, Best Performance Award, 2020
   - NS研究会, 若手研究奨励賞, 2018
   - 第5回コミュニケーションクオリティ基礎講座ワークショップ 最優秀研究賞, 2018
