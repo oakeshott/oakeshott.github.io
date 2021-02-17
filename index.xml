@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Takanori HARA on Takanori Hara</title>
-    <link>http://oakeshott.github.io/</link>
+    <link>https://oakeshott.github.io/</link>
     <description>Recent content in Takanori HARA on Takanori Hara</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://oakeshott.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://oakeshott.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://oakeshott.github.io/about/</link>
+      <link>https://oakeshott.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://oakeshott.github.io/about/</guid>
+      <guid>https://oakeshott.github.io/about/</guid>
       <description>人物  名前: 原 崇徳 (Takanori HARA) 所属: 奈良先端科学技術大学院大学 情報科学領域 大規模システム管理研究室 博士後期課程 連絡先: hara.takanori.hm8[at]is.naist.jp, hara[at]ieee.org  経歴 学歴  2009/4-2014/3: 奈良工業高等専門学校 情報工学科 2014/4-2016/3: 奈良工業高等専門学校 専攻科 電子情報工学専攻 2016/4-2018/3: 奈良先端科学技術大学院大学 情報科学研究科 2018/4-2021/3: 奈良先端科学技術大学院大学 先端科学技術研究科 情報科学領域  職歴  2020/4-2021/3: 独立行政法人日本学術振興会・特別研究員  学位  2016/3: 修士 (工学)・奈良先端科学技術大学院大学  所属学会  電子情報通信学会 (IEICE) IEEE  論文誌・国際会議・国内会議  Publicationを参照  表彰  ICETC, Best Paper Award, 2020 ITU AI/ML in 5G Challenge (Regional round), Judges’ Prize Winners’ Certificate, 2020 ITU AI/ML in 5G Challenge Global Round in Japan, Best Performance Award, 2020 NS研究会, 若手研究奨励賞, 2018 第5回コミュニケーションクオリティ基礎講座ワークショップ 最優秀研究賞, 2018 最優秀学生賞, 奈良先端科学技術大学院大学, 2018 NAIST最優秀学生賞, 公益財団法人 奈良先端科学技術大学院大学支援財団, 2018  奨学金  独立行政法人日本学生支援機構第一種奨学金の特に優れた業績による一部返済免除, 独立行政法人日本学生支援機構, 2020 公益財団法人アイコム電子通信工学振興財団平成31年度(第16期)奨学生, 2019 独立行政法人日本学生支援機構第一種奨学金の特に優れた業績による一部返済免除, 独立行政法人日本学生支援機構, 2018  インターンシップ  2019.</description>
     </item>
     
     <item>
       <title>Publication</title>
-      <link>http://oakeshott.github.io/publication/</link>
+      <link>https://oakeshott.github.io/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://oakeshott.github.io/publication/</guid>
+      <guid>https://oakeshott.github.io/publication/</guid>
       <description>Journal  M. Sasabe and T. Hara, &amp;lsquo;&amp;lsquo;Capacitated Shortest Path Tour Problem Based Integer Linear Programming for Service Chaining and Function Placement in NFV Networks,&amp;rsquo;&amp;rsquo; to appear in IEEE Transactions on Network and Service Management, pp.1-14, March 2021. T. Hara, M. Sasabe, and S. Kasahara, &amp;lsquo;&amp;lsquo;Selfish yet Optimal Routing by Adjusting Perceived Traffic Information of Road Networks,’’ IEEE Open Journal of Intelligent Transportation Systems, pp.120-133, Aug. 2020. T. Hara, M. Sasabe, T.</description>
     </item>
     
