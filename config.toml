@@ -4,7 +4,7 @@ title = "Takanori Hara"
 theme = "researcher"
 canonifyurls = true
 
-googleAnalytics = ""
+googleAnalytics = "UA-106011657-1"
 [params]
   author = "Takanori HARA"
   description = ""

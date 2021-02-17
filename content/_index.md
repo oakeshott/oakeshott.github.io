@@ -35,14 +35,14 @@ title = "Takanori HARA"
 - Grant-in-Aid for JSPS Fellows, Principal investigator, 2020.4-2021.3
 
 # Publication
-## Journal (Peer reviewd)
+## Journal (Peer reviewed)
 
 1. M. Sasabe and <u>T. Hara</u>, ''Capacitated Shortest Path Tour Problem Based Integer Linear Programming for Service Chaining and Function Placement in NFV Networks,'' to appear in *IEEE Transactions on Network and Service Management*, pp.1-14, March 2021.
 1. T. Hara, M. Sasabe, and S. Kasahara, ''Selfish Yet Optimal Routing by Adjusting Perceived Traffic Information of Road Networks,’’ *IEEE Open Journal of Intelligent Transportation Systems*, pp.120-133, Aug. 2020.
 1. T. Hara, M. Sasabe, T. Matsuda, and S. Kasahara, ''Capacitated Refuge Assignment for Speedy and Reliable Evacuation,'' *ISPRS International Journal of Geo-Information*, pp.1-19, Jul. 2020.
 1. T. Hara, M. Sasabe, and S. Kasahara, ''Geographical Risk Analysis Based Path Selection for Automatic, Speedy, and Reliable Evacuation Guiding Using Evacuees’ Mobile Devices,'' *Journal of Ambient Intelligence and Humanized Computing*, Springer, pp.2291-2300, Jun. 2019.
 
-## International Conference (Peer reviewd)
+## International Conference (Peer reviewed)
 
 1. T. Hara, M. Sasabe, and S. Kasahara, ''Distributed Route Selection under Consideration of Time Dependency among Agents’ Road Usage for Vehicular Networks,'' in Proc. of *the International Conference on Emerging Technologies for Communications (ICETC 2020)*, pp.1-4, Dec. 2020. (Best Paper Award)
 1. H. Shimizu, T. Hara, T. Iwata, ''Deep Reinforcement Learning for Pedestrian Guidance,'' in Proc. of *the International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 2020)*, pp.1-8, Nov. 2020. (short paper)
