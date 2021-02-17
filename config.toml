@@ -1,8 +1,10 @@
-baseURL = "http://oakeshott.github.io/"
+baseURL = "https://oakeshott.github.io/"
 languageCode = "en-us"
 title = "Takanori Hara"
 theme = "researcher"
+canonifyurls = true
 
+googleAnalytics = ""
 [params]
   author = "Takanori HARA"
   description = ""

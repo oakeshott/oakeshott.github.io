@@ -20,11 +20,11 @@
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
 
-    {{ range .Site.Params.customCSS }}
-    <link rel="stylesheet" href="{{ . | absURL}}">
-    {{ end }}
-
     {{ if not .Site.IsServer }}
         {{ template "_internal/google_analytics.html" . }}
+    {{ end }}
+
+    {{ range .Site.Params.customCSS }}
+    <link rel="stylesheet" href="{{ . | absURL}}">
     {{ end }}
 </head>
