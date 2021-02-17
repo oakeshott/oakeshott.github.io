@@ -1,0 +1,31 @@
+baseURL = "http://oakeshott.github.io/"
+languageCode = "en-us"
+title = "Takanori Hara"
+theme = "researcher"
+
+[params]
+  author = "Takanori HARA"
+  description = ""
+  customCSS = ["/custom.css"]
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Helvetica"
+    pageWidth = "750px"
+    avatarSize = "120px"
+    colorBlack = "#494949"
+    colorRed = "#dc3545"
+  [params.footer]
+    text = "Takanori Hara"
+
+[menus]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Publication"
+    url = "/#publication"
+    weight = 1
+  [[menu.main]]
+    name = "About (JPN)"
+    url = "/about"
+    weight = 2
