@@ -19,7 +19,7 @@
 }
 
 #content .avatar > img {
-  border-radius: initial;
+  border-radius: 0;
   float: right;
   margin: -8px 0 0 16px;
   height: 160px;
