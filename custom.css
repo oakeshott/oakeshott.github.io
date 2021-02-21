@@ -2,7 +2,7 @@
   padding: 0.25em 0.5em;
   color: #494949;
   background: transparent;
-  border-left: solid 5px #7db4e6;
+  border-left: solid 5px #E8B4F9;
   font-size: 1.4rem;
 }
 
@@ -16,6 +16,11 @@
   padding: 0.25em 0.5em;
   color: #494949;
   font-size: 1.0rem;
+}
+
+#content address {
+  color: #494949;
+  margin-left: 1.4em;
 }
 
 #content .avatar > img {
