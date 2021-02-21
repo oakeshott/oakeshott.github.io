@@ -2,12 +2,8 @@
 title = "Takanori HARA"
 +++
 
-{{< figure class="avatar" src="/avatar.jpg" >}}
-# About Me
-
-  - Name: Takanori HARA
-  - Affiliation: In Doctoral course, Large-Scale Systems Laboratory Division of Information Science, Nara Institute of Science and Technology.
-  - Email: hara.takanori.hm8[at]is.naist.jp, hara[at]ieee.org
+<!-- {{< figure class="avatar" src="/avatar.jpg" >}} -->
+{{< aboutme >}}
 
 # Biography
 
