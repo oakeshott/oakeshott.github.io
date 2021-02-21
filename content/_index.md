@@ -2,7 +2,7 @@
 title = "Takanori HARA"
 +++
 
-{{< aboutme >}}
+{{< profile >}}
 
 # Biography
 
