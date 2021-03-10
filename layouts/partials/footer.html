@@ -2,7 +2,11 @@
     {{ with .Site.Params.footer }}
         <hr>
         <div class="container text-center">
-            <a href="{{ .url | absURL }}"><small>{{ .text }}</small></a>
+          <small>
+            <a href="{{ .url | absURL }}">{{ .text }}</a>.
+            <br>
+            Powered by the <a href="https://github.com/ojroques/hugo-researcher">Researcher theme</a> for <a href="https://gohugo.io/">Hugo</a>.
+          </small>
         </div>
     {{ end }}
 </div>
