@@ -9,12 +9,13 @@ title = "Takanori HARA"
   Takanori Hara received the B.Eng. degree from National Institution for Academic Degrees and Quality Enhancement of Higher Education in 2016 and the M.Eng. degree from Nara Institute of Science and Technology, Japan, in 2018.
   He is currently working towards the Ph.D degree with Nara Institute of Science and Technology, Japan.
   He is also a Research Fellow of the Japan Society for the Promotion of Science (DC2).
-  His research interests include evacuation guiding, route planning, and game-theoretic approach.
+  His research interests include NFV network, evacuation guiding, route planning, and game-theoretic approach.
 
 # Research Interests
 
 - NFV network
-- Game-theoretical approaches
+- Game-theoretical approach
+- Route planning
 - Evacuation planning
 
 # Education
@@ -41,7 +42,7 @@ title = "Takanori HARA"
 
 1. T. Hara, M. Sasabe, and S. Kasahara, ''Distributed Route Selection under Consideration of Time Dependency among Agents’ Road Usage for Vehicular Networks,'' in Proc. of *the International Conference on Emerging Technologies for Communications (ICETC 2020)*, pp.1-4, Dec. 2020. (Best Paper Award)
 1. H. Shimizu, T. Hara, T. Iwata, ''Deep Reinforcement Learning for Pedestrian Guidance,'' in Proc. of *the International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 2020)*, pp.1-8, Nov. 2020. (short paper)
-1. M. Sasabe, T. Hara, ''Shortest Path Tour Problem Based Integer Linear Programming for Service Chaining in NFV Networks,'' in Proc. of *the IEEE International Conference on Network Softwarization (IEEE NetSoft 2020)*, pp.1-8, June 2020. (full paper)
+1. M. Sasabe and T. Hara, ''Shortest Path Tour Problem Based Integer Linear Programming for Service Chaining in NFV Networks,'' in Proc. of *the IEEE International Conference on Network Softwarization (IEEE NetSoft 2020)*, pp.1-8, June 2020. (full paper)
 1. <u>T. Hara</u>, M. Sasabe, and S. Kasahara, ''Short and Reliable Path Selection for Automatic Evacuation Guiding Based on Interactions Between Evacuees and Their Mobile Devices.’’ in Proc. of *the International Conference on Mobile Web and Information Systems (MOBIWIS 2017)*, pp.33-44, Aug. 2017.
 
 ## Domestic Conference
@@ -64,7 +65,7 @@ title = "Takanori HARA"
 
 # Award
 - ICETC, Best Paper Award, 2020
-- ITU AI/ML in 5G Challenge (Regional round), Judges’ Prize Winners’ Certificate, 2020
+- ITU AI/ML in 5G Challenge (Regional round), Judges' Prize Winners' Certificate, 2020
 - ITU AI/ML in 5G Challenge Global Round in Japan, Best Performance Award, 2020
 - NS研究会, 若手研究奨励賞, 2018
 - 第5回コミュニケーションクオリティ基礎講座ワークショップ 最優秀研究賞, 2018
