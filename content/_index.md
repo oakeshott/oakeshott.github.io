@@ -33,7 +33,7 @@ title = "Takanori HARA"
 # Publication
 ## Journal (Peer reviewed)
 
-1. M. Sasabe and T. Hara, ''Capacitated Shortest Path Tour Problem Based Integer Linear Programming for Service Chaining and Function Placement in NFV Networks,'' to appear in *IEEE Transactions on Network and Service Management*, pp.1-14, March 2021.
+1. M. Sasabe and T. Hara, ''Capacitated Shortest Path Tour Problem Based Integer Linear Programming for Service Chaining and Function Placement in NFV Networks,'' *IEEE Transactions on Network and Service Management*, pp.104-117, March 2021.
 1. T. Hara, M. Sasabe, and S. Kasahara, ''Selfish Yet Optimal Routing by Adjusting Perceived Traffic Information of Road Networks,’’ *IEEE Open Journal of Intelligent Transportation Systems*, pp.120-133, Aug. 2020.
 1. T. Hara, M. Sasabe, T. Matsuda, and S. Kasahara, ''Capacitated Refuge Assignment for Speedy and Reliable Evacuation,'' *ISPRS International Journal of Geo-Information*, pp.1-19, Jul. 2020.
 1. T. Hara, M. Sasabe, and S. Kasahara, ''Geographical Risk Analysis Based Path Selection for Automatic, Speedy, and Reliable Evacuation Guiding Using Evacuees’ Mobile Devices,'' *Journal of Ambient Intelligence and Humanized Computing*, Springer, pp.2291-2300, Jun. 2019.
