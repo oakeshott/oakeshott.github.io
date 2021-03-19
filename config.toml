@@ -15,7 +15,7 @@ googleAnalytics = "UA-106011657-1"
     pageWidth = "750px"
     avatarSize = "120px"
     colorBlack = "#494949"
-    colorRed = "#dc3545"
+    colorRed = "#889955"
   [params.footer]
     text = "Takanori Hara"
 
