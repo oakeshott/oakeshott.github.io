@@ -6,9 +6,8 @@ title = "Takanori HARA"
 
 # Biography
 
-  Takanori Hara received the B.Eng. degree from National Institution for Academic Degrees and Quality Enhancement of Higher Education in 2016 and the M.Eng. degree from Nara Institute of Science and Technology, Japan, in 2018.
-  He is currently working towards the Ph.D degree with Nara Institute of Science and Technology, Japan.
-  He is also a Research Fellow of the Japan Society for the Promotion of Science (DC2).
+  Takanori Hara received the B.Eng. degree from National Institution for Academic Degrees and Quality Enhancement of Higher Education in 2016 and the M.Eng. and Ph.D. degrees from Nara Institute of Science and Technology, Japan, in 2018 and 2021.
+  He is currently an Assistant Professor with the Division of Information Science, Graduate School of Science and Technology, Nara Institute of Science and Techology, Japan.
   His research interests include NFV network, evacuation guiding, route planning, and game-theoretic approach.
 
 # Research Interests
@@ -20,7 +19,7 @@ title = "Takanori HARA"
 
 # Education
 
-- Now: in Doctoral course, Division of Information Science, Nara Institute of Science and Technology.
+- Mar. 2021: Ph.D., Division of Information Science, Nara Institute of Science and Technology.
 - Mar. 2018: M.Eng., Department of Information Science, Nara Institute of Science and Technology.
 - Mar. 2016: B.Eng., National Institution for Academic Degrees and Quality Enhancement of Higher Education.
 - Mar. 2016: Finished, Advanced Electronic and Information Engineering Course, National Institute of Technology, Nara College.
@@ -64,10 +63,13 @@ title = "Takanori HARA"
 1. 原崇徳, 笹部昌弘, 笠原正治, “避難者・モバイル端末間連携型自動避難誘導における避難経路選択方式に関する一検討,” 電子情報通信学会総合大会, 2017.3.
 
 # Award
-- ICETC, Best Paper Award, 2020
-- ITU AI/ML in 5G Challenge (Regional round), Judges' Prize Winners' Certificate, 2020
-- ITU AI/ML in 5G Challenge Global Round in Japan, Best Performance Award, 2020
-- NS研究会, 若手研究奨励賞, 2018
-- 第5回コミュニケーションクオリティ基礎講座ワークショップ 最優秀研究賞, 2018
+
+- 最優秀学生賞, 奈良先端科学技術大学院大学, 2021
+- NAIST最優秀学生賞, 公益財団法人 奈良先端科学技術大学院大学支援財団, 2021
+- Best Paper Award, ICETC, 2020
+- Judges’ Prize Winners’ Certificate, ITU AI/ML in 5G Challenge (Regional round), 2020
+- Best Performance Award, ITU AI/ML in 5G Challenge Global Round in Japan, 2020
+- 若手研究奨励賞, NS研究会, 2018
+- 最優秀研究賞, 第5回コミュニケーションクオリティ基礎講座ワークショップ, 2018
 - 最優秀学生賞, 奈良先端科学技術大学院大学, 2018
 - NAIST最優秀学生賞, 公益財団法人 奈良先端科学技術大学院大学支援財団, 2018

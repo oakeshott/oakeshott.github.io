@@ -15,10 +15,12 @@ title = "About"
 ## 職歴
 
 - 2020/4-2021/3: 独立行政法人日本学術振興会・特別研究員
+- 2021/4-: 奈良先端科学技術大学院大学先端科学技術研究科情報科学領域・助教授
 
 ## 学位
 
 - 2018/3: 修士 (工学)・奈良先端科学技術大学院大学
+- 2021/3: 博士 (工学)・奈良先端科学技術大学院大学
 
 # 所属学会
 
@@ -30,11 +32,13 @@ title = "About"
 
 # 表彰
 
-- ICETC, Best Paper Award, 2020
-- ITU AI/ML in 5G Challenge (Regional round), Judges’ Prize Winners’ Certificate, 2020
-- ITU AI/ML in 5G Challenge Global Round in Japan, Best Performance Award, 2020
-- NS研究会, 若手研究奨励賞, 2018
-- 第5回コミュニケーションクオリティ基礎講座ワークショップ 最優秀研究賞, 2018
+- 最優秀学生賞, 奈良先端科学技術大学院大学, 2021
+- NAIST最優秀学生賞, 公益財団法人 奈良先端科学技術大学院大学支援財団, 2021
+- Best Paper Award, ICETC, 2020
+- Judges’ Prize Winners’ Certificate, ITU AI/ML in 5G Challenge (Regional round), 2020
+- Best Performance Award, ITU AI/ML in 5G Challenge Global Round in Japan, 2020
+- 若手研究奨励賞, NS研究会, 2018
+- 最優秀研究賞, 第5回コミュニケーションクオリティ基礎講座ワークショップ, 2018
 - 最優秀学生賞, 奈良先端科学技術大学院大学, 2018
 - NAIST最優秀学生賞, 公益財団法人 奈良先端科学技術大学院大学支援財団, 2018
 
