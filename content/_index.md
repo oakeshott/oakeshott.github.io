@@ -41,8 +41,8 @@ title = "Takanori HARA"
 ## International Conference (Peer reviewed)
 
 1. T. Hara, M. Sasabe, and S. Kasahara, ''Distributed Route Selection under Consideration of Time Dependency among Agents’ Road Usage for Vehicular Networks,'' in Proc. of *the International Conference on Emerging Technologies for Communications (ICETC 2020)*, pp.1-4, Dec. 2020. (Best Paper Award)
-1. H. Shimizu, T. Hara, T. Iwata, ''Deep Reinforcement Learning for Pedestrian Guidance,'' in Proc. of *the International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 2020)*, pp.1-8, Nov. 2020. (short paper)
-1. M. Sasabe and T. Hara, ''Shortest Path Tour Problem Based Integer Linear Programming for Service Chaining in NFV Networks,'' in Proc. of *the IEEE International Conference on Network Softwarization (IEEE NetSoft 2020)*, pp.1-8, June 2020. (full paper)
+1. H. Shimizu, T. Hara, T. Iwata, ''Deep Reinforcement Learning for Pedestrian Guidance,'' in Proc. of *the International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 2020)*, pp.334-342, Nov. 2020. (short paper)
+1. M. Sasabe and T. Hara, ''Shortest Path Tour Problem Based Integer Linear Programming for Service Chaining in NFV Networks,'' in Proc. of *the IEEE International Conference on Network Softwarization (IEEE NetSoft 2020)*, pp.114-121, June 2020. (full paper)
 1. <u>T. Hara</u>, M. Sasabe, and S. Kasahara, ''Short and Reliable Path Selection for Automatic Evacuation Guiding Based on Interactions Between Evacuees and Their Mobile Devices.’’ in Proc. of *the International Conference on Mobile Web and Information Systems (MOBIWIS 2017)*, pp.33-44, Aug. 2017.
 
 ## Domestic Conference
