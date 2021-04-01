@@ -1,0 +1,66 @@
+#content h1 {
+  padding: 0.25em 0.5em;
+  color: #494949;
+  background: transparent;
+  border-left: solid 5px #889955;
+  font-size: 1.4rem;
+}
+
+#content h2 {
+  padding: 0.25em 0.5em;
+  color: #494949;
+  font-size: 1.2rem;
+}
+
+#content h3 {
+  padding: 0.25em 0.5em;
+  color: #494949;
+  font-size: 1.0rem;
+}
+
+span#h1 {
+  padding: 0.25em 0.5em;
+  color: #494949;
+  background: transparent;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+span#h2 {
+  padding: 0.25em 0.5em;
+  color: #494949;
+  background: transparent;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-left: 0.6em;
+}
+
+#content address {
+  color: #494949;
+  margin-left: 1.4em;
+}
+
+#content .avatar > img {
+  border-radius: 0;
+  float: right;
+  margin: -8px 0 0 16px;
+  height: 160px;
+  width: 120px;
+}
+
+#content .container > ol {
+  padding-left: 1em;
+}
+
+#content .container > ul {
+  padding-left: 1em;
+}
+
+li {
+  margin-left: 1.4em;
+  text-indent: -1.4em;
+}
+
+#content p {
+  margin-left: 1.4em;
+}
