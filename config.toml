@@ -1,4 +1,5 @@
 baseURL = "https://oakeshott.github.io/"
+# baseURL = "http://www-lsm.naist.jp/~t-hara/"
 languageCode = "ja"
 DefaultContentLanguage = "ja"
 title = "Takanori Hara"
@@ -9,6 +10,7 @@ googleAnalytics = "UA-106011657-1"
 [params]
   author = "Takanori HARA"
   description = ""
+  # customCSS = ["/~t-hara/custom.css"]
   customCSS = ["/custom.css"]
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Helvetica"
